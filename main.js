@@ -26,7 +26,29 @@ const questions = [
             { text: 'Rose`', correct: false },
             { text: 'Jennie', correct: false },
             { text: 'Soda', correct: false },
-            { text: 'hg ot ss pg', correct: true },
+            { text: 'ហែងអត់​សង្សារទេ', correct: true },
+
+        ]
+    },
+    {
+        question: `What's the university that I study at?`,
+        answer: [
+
+            { text: 'AUPP', correct: false },
+            { text: 'RUPP', correct: true },
+            { text: 'ITC', correct: false },
+            { text: 'SETEC', correct: false },
+
+        ]
+    },
+    {
+        question: `What is my current year at university?`,
+        answer: [
+
+            { text: '1', correct: false },
+            { text: '2', correct: false },
+            { text: '3', correct: true },
+            { text: '4', correct: false },
 
         ]
     },
